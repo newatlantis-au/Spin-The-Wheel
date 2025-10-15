@@ -1,5 +1,7 @@
-# Spin The Wheel
+# [Spin The Wheel](https://spinthewheelofnames.com/)
 Spin The Wheel Of Names - all open source libraries and tools that we are using
+
+Your new favourity random name picker! SpinTheWheelOfNames.com is a free, user-friendly, and customizable tool that lets you spin the wheel to randomly select a name or item from any list. Whether you’re a teacher choosing students or running a raffle, our wheel of names makes decision-making fun and effortless.
 
 ## Spin The Wheel Of Names - Backend tools and services
 - [Ruby on Rails](https://rubyonrails.org/) - Backend framework. The base and cornerstone.
